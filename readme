@@ -1,0 +1,1 @@
+The remote server part of the remote proxy pattern. this program has the server helper (e.x. Mqtt Client) and a service object (IoT Device)
